@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Calculator</name>
+    </assembly>
+    <members>
+        <member name="M:Calculator.CalculatorCore.Feldolgoz(System.String)">
+            <summary>
+            Elvégzi a kért műveleteket
+            </summary>
+            <param name="v">Szöveg formában várja az elvégzendő műveletet.</param>
+            <returns>Eredménnyel tér vissza</returns>
+        </member>
+        <member name="M:Calculator.CalculatorCore.Sub(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Kivonást végez egy listán
+            </summary>
+            <param name="szamok">Az operandusok listája</param>
+            <returns>A kivonás eredményével tér vissza</returns>
+        </member>
+        <member name="M:Calculator.CalculatorCore.Mul(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            A számok szorzásáért felel
+            </summary>
+            <param name="szamok">Az össze szorzandó számok listája</param>
+            <returns>Szorzás eredményével tér vissza</returns>
+        </member>
+        <member name="M:Calculator.CalculatorCore.Dev(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Elvégzi a listán az osztást
+            </summary>
+            <param name="szamok">Az elosztani kívánt számok listája</param>
+            <returns>Az osztás eredménye</returns>
+        </member>
+        <member name="M:Calculator.CalculatorCore.SzamValogatas(System.String,System.Char)">
+            <summary>
+            Tömbbe válogatja a file elemeit
+            </summary>
+            <param name="v">Szöveg, ami a műveleteket tartalmazza</param>
+            <param name="jel">A műveleti jel</param>
+            <returns>Számokat tartalmazó listával tér vissza</returns>
+        </member>
+        <member name="M:Calculator.CalculatorCore.Sum(System.Collections.Generic.List{System.Int32})">
+            <summary>
+            Összeadást végez
+            </summary>
+            <param name="szamok">Az összeadni kívánt számok listáját várja</param>
+            <returns>Összeggel tér vissza</returns>
+        </member>
+    </members>
+</doc>

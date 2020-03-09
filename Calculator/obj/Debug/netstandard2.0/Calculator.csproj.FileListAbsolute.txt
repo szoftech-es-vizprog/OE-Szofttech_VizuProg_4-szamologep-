@@ -1,0 +1,19 @@
+D:\Adam Kuczi\calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+D:\Adam Kuczi\calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+D:\Adam Kuczi\calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+D:\Adam Kuczi\calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Adam Kuczi\calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+D:\Adam Kuczi\calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+D:\Adam Kuczi\calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+D:\szoft_tech_l2\4\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+D:\szoft_tech_l2\4\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+D:\szoft_tech_l2\4\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+D:\szoft_tech_l2\4\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+D:\szoft_tech_l2\4\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+D:\szoft_tech_l2\4\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+D:\szoft_tech_l2\4\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+D:\szoft_tech_l2\4\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+D:\szoft_tech_l2\4\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+D:\szoft_tech_l2\4\Calculator\bin\Debug\netstandard2.0\Calculator.xml

@@ -1,0 +1,230 @@
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Calculator.Test.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Calculator.Test.pdb
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\netstandard.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.AppContext.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Collections.Concurrent.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Collections.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Collections.NonGeneric.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Collections.Specialized.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.ComponentModel.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Console.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Data.Common.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.Debug.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.Process.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.Tools.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Drawing.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Dynamic.Runtime.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Globalization.Calendars.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Globalization.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Globalization.Extensions.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.Compression.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.FileSystem.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.Pipes.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Linq.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Linq.Expressions.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Linq.Parallel.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Linq.Queryable.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.Http.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.NameResolution.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.NetworkInformation.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.Ping.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.Requests.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.Security.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.Sockets.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Net.WebSockets.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.ObjectModel.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Reflection.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Reflection.Extensions.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Reflection.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Resources.Reader.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Resources.ResourceManager.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Resources.Writer.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.Extensions.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.Handles.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.InteropServices.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.Numerics.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.Claims.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.Principal.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Security.SecureString.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Text.Encoding.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Text.RegularExpressions.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Threading.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Threading.Overlapped.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Threading.Tasks.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Threading.Thread.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Threading.ThreadPool.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Threading.Timer.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.ValueTuple.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Xml.XDocument.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Xml.XmlDocument.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Xml.XPath.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Calculator UI.exe
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Calculator.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Calculator UI.pdb
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Calculator UI.exe.config
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Calculator.pdb
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\obj\Debug\Calculator.Test.csprojAssemblyReference.cache
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\obj\Debug\Calculator.Test.csproj.CoreCompileInputs.cache
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\obj\Debug\Calculator.Test.csproj.CopyComplete
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\obj\Debug\Calculator.Test.dll
+D:\Adam Kuczi\calculator\Calculator\Calculator.Test\obj\Debug\Calculator.Test.pdb
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Calculator.Test.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Calculator.Test.pdb
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\netstandard.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.AppContext.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Collections.Concurrent.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Collections.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Collections.NonGeneric.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Collections.Specialized.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.ComponentModel.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.ComponentModel.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Console.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Data.Common.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.Contracts.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.Debug.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.Process.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.Tools.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Diagnostics.Tracing.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Drawing.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Dynamic.Runtime.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Globalization.Calendars.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Globalization.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Globalization.Extensions.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.Compression.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.FileSystem.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.IsolatedStorage.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.Pipes.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Linq.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Linq.Expressions.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Linq.Parallel.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Linq.Queryable.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.Http.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.NameResolution.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.NetworkInformation.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.Ping.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.Requests.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.Security.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.Sockets.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.WebSockets.Client.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Net.WebSockets.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.ObjectModel.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Reflection.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Reflection.Extensions.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Reflection.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Resources.Reader.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Resources.ResourceManager.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Resources.Writer.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.Extensions.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.Handles.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.InteropServices.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.Numerics.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.Claims.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.Principal.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Security.SecureString.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Text.Encoding.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Text.RegularExpressions.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Threading.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Threading.Overlapped.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Threading.Tasks.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Threading.Thread.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Threading.ThreadPool.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Threading.Timer.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.ValueTuple.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Xml.ReaderWriter.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Xml.XDocument.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Xml.XmlDocument.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Xml.XmlSerializer.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Xml.XPath.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Calculator UI.exe
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Calculator.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Calculator UI.pdb
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Calculator UI.exe.config
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Calculator.pdb
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\szoft_tech_l2\4\Calculator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\szoft_tech_l2\4\Calculator.Test\obj\Debug\Calculator.Test.csprojAssemblyReference.cache
+D:\szoft_tech_l2\4\Calculator.Test\obj\Debug\Calculator.Test.csproj.CoreCompileInputs.cache
+D:\szoft_tech_l2\4\Calculator.Test\obj\Debug\Calculator.Test.csproj.CopyComplete
+D:\szoft_tech_l2\4\Calculator.Test\obj\Debug\Calculator.Test.dll
+D:\szoft_tech_l2\4\Calculator.Test\obj\Debug\Calculator.Test.pdb
