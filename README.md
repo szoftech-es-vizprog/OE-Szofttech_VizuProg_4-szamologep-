@@ -1,4 +1,4 @@
-# OE-Szofttech_VizuProg_4-szamologep-
+# 4. Óra - Számológép
 
 ## Újdonságok:
 - Tesztvezérelt fejlesztés
